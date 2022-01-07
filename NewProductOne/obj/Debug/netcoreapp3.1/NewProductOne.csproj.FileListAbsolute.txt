@@ -1,0 +1,13 @@
+C:\Users\thecr\source\repos\NewProductOne\bin\Debug\netcoreapp3.1\NewProductOne.exe
+C:\Users\thecr\source\repos\NewProductOne\bin\Debug\netcoreapp3.1\NewProductOne.deps.json
+C:\Users\thecr\source\repos\NewProductOne\bin\Debug\netcoreapp3.1\NewProductOne.runtimeconfig.json
+C:\Users\thecr\source\repos\NewProductOne\bin\Debug\netcoreapp3.1\NewProductOne.runtimeconfig.dev.json
+C:\Users\thecr\source\repos\NewProductOne\bin\Debug\netcoreapp3.1\NewProductOne.dll
+C:\Users\thecr\source\repos\NewProductOne\bin\Debug\netcoreapp3.1\NewProductOne.pdb
+C:\Users\thecr\source\repos\NewProductOne\obj\Debug\netcoreapp3.1\NewProductOne.csprojAssemblyReference.cache
+C:\Users\thecr\source\repos\NewProductOne\obj\Debug\netcoreapp3.1\NewProductOne.AssemblyInfoInputs.cache
+C:\Users\thecr\source\repos\NewProductOne\obj\Debug\netcoreapp3.1\NewProductOne.AssemblyInfo.cs
+C:\Users\thecr\source\repos\NewProductOne\obj\Debug\netcoreapp3.1\NewProductOne.csproj.CoreCompileInputs.cache
+C:\Users\thecr\source\repos\NewProductOne\obj\Debug\netcoreapp3.1\NewProductOne.dll
+C:\Users\thecr\source\repos\NewProductOne\obj\Debug\netcoreapp3.1\NewProductOne.pdb
+C:\Users\thecr\source\repos\NewProductOne\obj\Debug\netcoreapp3.1\NewProductOne.genruntimeconfig.cache
